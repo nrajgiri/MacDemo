@@ -1,3 +1,10 @@
+# Devops
+  linux
+  
+
+
+
+
 # DevOps Foundations: My First Project
 
 # Docker installation
@@ -109,6 +116,10 @@ Container is a running enviroment for Image
      
      Type of Hypervisor
       - type1(Bare Metal or Netive Hyper) and type2(Hosted Hpervisor)
+      
+   What is Virtualization
+   
+   
      
    # Docker Architecture 
  
