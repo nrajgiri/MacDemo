@@ -130,7 +130,26 @@ Container is a running enviroment for Image
    What is Virtualization
    
    h/w - os - docker engine - container - 
-     
+   
+   docker -  is a deployement tool.
+   
+   docker create container and CHEF do configuration
+   container is VM. provider all  dependencies for our application.
+   container is running state of image.
+   
+   
+   # Docker Hub
+   
+   # Virtualisation
+    Platform as a Service
+ Iaas
+ Saas
+ Paas
+   
+   
+     docker 
    # Docker Architecture 
+ 
+
  
  
