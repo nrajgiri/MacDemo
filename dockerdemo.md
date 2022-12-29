@@ -43,7 +43,7 @@ open terminal
       - Dockerfile
       - vim Dockerfile (we can open Dockerfile in any editor file like sublime, VSCODE)
       
-      -----------------------------------------------------------------
+      -------------------------------------------------------------------------
       
       brew install docker  - docker command line interface
       brew cask install docker - install docker , docker compose, docker client
@@ -129,7 +129,7 @@ Container is a running enviroment for Image
       
    What is Virtualization
    
-   
+   h/w - os - docker engine - container - 
      
    # Docker Architecture 
  
