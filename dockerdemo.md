@@ -72,8 +72,44 @@ Container is a running enviroment for Image
      
      
      
+     What is Docker and how it works?
+          -prerequiste - vm ware
+          
+     Container is like a Virtual Machine
+     Docker or Docker Engine is a tool which create this VM
+    
+     to run application we need dependencies 
+     to run some applicatinon we need some dependencies in our system. 
+     or we need compatable version for that version
      
      
-            
+     
+     Development + Operation(Deploy to Server)
+      - Dependencies
+     
+     - Infratructure - Hardware - window - Hypervisor - 
+     
+    Revise =>  Hypervisor -  help create Vritual Machine (Virtualization)
+    
+    
+    # Docker
+    docker is a advance version of Virtualization
+    docker   help in  Containerization
+     
+      Virtualization == Containerizatin
+     Hypervisor == Docker Engine 
+     vm = ec2 intance = Docker Engine
+     
+     What is Hypervisor?
+     - create and run Virtual Macnine and called Virtual Machine Manager(VMM)
+     
+     
+     what is software, formware, hardware?
+     
+     
+     Type of Hypervisor
+      - type1(Bare Metal or Netive Hyper) and type2(Hosted Hpervisor)
+     
+   # Docker Architecture 
  
  
