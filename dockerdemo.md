@@ -2,7 +2,17 @@
   linux
   
 
+# Basics of AWS Cloud
+server
+configuration - each and every minute details of your Machine (server, storage)
+Automation Tool - CHEF
 
+
+
+
+# CHEF - configuration Management Tool
+    system asministrator
+    
 
 
 # DevOps Foundations: My First Project
